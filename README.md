@@ -60,27 +60,13 @@ Applying statistical and machine learning techniques to identify patterns, asses
 
 # Projects
 
-## 📌 Maternal Risk Prediction
-
-Analytical project investigating indicators associated with maternal health risks and adverse outcomes.
-
-🔗 Repository: [Maternal Risk Prediction](https://github.com/ToniaNiles/Maternal_Risk_Prediction)
+[Maternal Risk Prediction](https://github.com/ToniaNiles/Maternal_Risk_Prediction): Analytical project investigating indicators associated with maternal health risks and adverse outcomes.
 
 ---
-
-## 📌 Maternal Mortality Trends (2000–2023)
-
-Trend analysis and forecasting project examining maternal mortality patterns and long-term public health outcomes.
-
-🔗 Repository: [Maternal Mortality Trends](https://github.com/ToniaNiles/Maternal-Mortality-Trends-2000-2023)
+[Maternal Mortality Trends](https://github.com/ToniaNiles/Maternal-Mortality-Trends-2000-2023): Trend analysis and forecasting project examining maternal mortality patterns and long-term public health outcomes.
 
 ---
-
-## 📌 Healthcare Analytics Portfolio
-
-Healthcare analytics projects focused on NHS primary care performance, workforce utilisation, patient access, and demand analysis.
-
-🔗 Repository: [Healthcare Analytics Portfolio](https://github.com/ToniaNiles/healthcare-analytics-portfolio)
+[Healthcare Analytics Portfolio](https://github.com/ToniaNiles/healthcare-analytics-portfolio): Healthcare analytics projects focused on NHS primary care performance, workforce utilisation, patient access, and demand analysis.
 
 ---
 
