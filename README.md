@@ -1,6 +1,6 @@
 # Hi, I'm Anthonia Agbonile 👋
 
-### Health Data Analyst | Public Health Researcher | Data Science Enthusiast
+### Health Data Analyst | Public Health Researcher | Data Scientist
 
 I'm passionate about using data to understand health challenges, uncover meaningful insights, and support evidence-based decision-making.
 
